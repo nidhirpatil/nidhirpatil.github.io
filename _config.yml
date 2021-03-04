@@ -5,7 +5,8 @@ description: "" #add description
 baseurl: ""
 url: "http://nidhirpatil.github.io/"
 title_description: "DevOps Engineer"
-title_image: "https://s.gravatar.com/avatar/2d22387f94afafe63f3d13b7233688a1?s=80"
+title_image: "https://s.gravatar.com/avatar/00e92507e6e4825be4a715e3c1d6be97?s=80
+"
 google_analytics: "UA-149876783-1"
 disqus_account: 
 github_repository: https://github.com/nidhirpatil/nidhirpatil.github.io
