@@ -1,0 +1,9 @@
+<p class="links">
+  {% if site.twitter_username %}<a href="https://www.twitter.com/{{ site.twitter_username }}" target="_new"><i class="fa fa-twitter"></i></a>{% endif %}
+  {% if site.linkedin_link %}<a href="{{ site.linkedin_link }}" target="_new"><i class="fa fa-linkedin"></i></a>{% endif %}
+  {% if site.xing_link %}<a href="{{ site.xing_link }}" target="_new"><i class="fa fa-xing"></i></a>{% endif %}
+  {% if site.github_username %}<a href="https://github.com/{{ site.github_username }}" target="_new"><i class="fa fa-github-alt"></i></a>{% endif %}
+  {% if site.CV_link %}<a href="{{ site.CV_link }}" target="_new"><i class="fa fa-download"></i></a>{% endif %}
+  {% if site.gmail_link %}<a href="mailto: {{ site.gmail_link }}" target="_new"><i class="fa fa-at"></i></a>{% endif %}
+  <a href="{{ site.baseurl }}/feed.xml" target="_new"><i class="fa fa-rss"></i></a>
+</p>
