@@ -1,0 +1,40 @@
+# Site settings
+title: "Nidhi Patil"
+email: nidhirpatil@gmail.com
+description: "" #add description
+baseurl: ""
+url: "http://nidhirpatil.github.io/"
+title_description: "DevOps Engineer"
+title_image: "https://s.gravatar.com/avatar/2d22387f94afafe63f3d13b7233688a1?s=80"
+google_analytics: "UA-149876783-1"
+disqus_account: 
+github_repository: https://github.com/nidhirpatil/nidhirpatil.github.io
+#addthis_id: ra-513c6fa83da6ec67
+post_limit: 15
+
+# Social usernames/URLs
+twitter_username: nidhirpatil
+github_username:  nidhirpatil
+instagram_username: nidhi.r.patil
+reddit_username: 
+linkedin_link: https://in.linkedin.com/in/nidhirpatil
+google_plus_link: 
+stackoverflow_link: 
+xing_link:
+facebook_link:
+CV_link : 
+gmail_link: nidhirpatil@gmail.com
+
+# Footer
+footer_left: 
+footer_right: 
+
+# Build settings
+markdown: kramdown
+
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+permalink: pretty
+exclude: [vendor]
