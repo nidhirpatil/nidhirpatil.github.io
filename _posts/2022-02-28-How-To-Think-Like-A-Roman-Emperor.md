@@ -24,7 +24,7 @@ Nevertheless, some external things are preferable to others, and wisdom consists
 
 * Social, material, and physical advantages actually give foolish individuals more opportunity to do harm to themselves and others. 
 
-* Stoics had names for many different types of goof passion(eupatheiai), a term encompassing both desires and emotions, which they grouped under three broad headings, 
+* Stoics had names for many different types of good passion(eupatheiai), a term encompassing both desires and emotions, which they grouped under three broad headings, 
 	1. A profound sense of joy or gladness and peace of mind, which comes from living with wisdom and virtue. 
 	2. A healthy feeling of aversion to vice, like a sense of conscience, honor, dignity, or integrity.
 	3. The desire to help both ourselves and others, through friendship, kindness, and goodwill.
