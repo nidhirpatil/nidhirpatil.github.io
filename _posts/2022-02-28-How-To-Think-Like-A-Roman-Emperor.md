@@ -36,7 +36,7 @@ Nevertheless, some external things are preferable to others, and wisdom consists
 * Any emotion can be experienced in the following stages,
 	1. Initial impressions automatically impose themselves on your mind, including thoughts and emerging feelings called propatheiai. 
 	2. Take a step back from their initial thoughts and feelings and withhold their assent from them. Responding calmly and with courage is more important. 
-	3. If you have assented to the impression that something is intrinsically bad or catastrophic, then a full-blown "passion" develops, which can quickly spiral out of control 
+	3. If you have assented to the impression that something is intrinsically bad or catastrophic, then a full-blown "passion" develops, which can quickly spiral out of control.
 
 * Simplicity frees us from affectation and trouble it brings. 
 
