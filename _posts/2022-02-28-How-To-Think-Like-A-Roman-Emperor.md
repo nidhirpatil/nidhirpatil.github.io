@@ -110,7 +110,7 @@ Nevertheless, some external things are preferable to others, and wisdom consists
 
 * Individuals are bound to make moral errors because the majority do not have a firm grasp on the true nature of good and evil. Nobody is born wise, but rather we must become so through education and training. 
 
-* Thoughts related to anger and similar negative commands,
+* Thoughts related to anger and similar negative feelings,
 	1. We are naturally social animals, designed to help one another. 
 	2. Consider a person's character as a whole. 
 	3. Nobody does wrong willingly.
