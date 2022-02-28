@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      Welcome
+title:      How To Think Like A Roman Emperor
 date:       2022-02-28
-summary:    How To Think Like A Roman Emperor
+summary:    My favourite snippets from the book.
 categories: Books
 thumbnail:
 tags:
